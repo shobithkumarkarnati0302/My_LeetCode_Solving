@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
