@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
