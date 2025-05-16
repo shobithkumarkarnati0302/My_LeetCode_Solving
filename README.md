@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1755-defuse-the-bomb) |
 | [3643-zero-array-transformation-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3643-zero-array-transformation-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3643-zero-array-transformation-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
