@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1755-defuse-the-bomb) |
 | [3643-zero-array-transformation-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3643-zero-array-transformation-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
