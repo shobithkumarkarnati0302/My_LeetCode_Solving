@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
+| [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1755-defuse-the-bomb) |
 | [3643-zero-array-transformation-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
