@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 ## String
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
+| [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
@@ -130,10 +133,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
+| [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 <!---LeetCode Topics End-->
