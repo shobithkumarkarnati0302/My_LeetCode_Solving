@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0777-toeplitz-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
