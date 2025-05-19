@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0231-power-of-two) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
 | [0898-transpose-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
