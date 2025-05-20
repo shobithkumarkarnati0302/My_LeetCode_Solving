@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0777-toeplitz-matrix) |
