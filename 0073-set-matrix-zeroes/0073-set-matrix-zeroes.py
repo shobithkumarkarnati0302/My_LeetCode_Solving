@@ -1,16 +1,21 @@
 class Solution(object):
     def setZeroes(self, matrix):
         m,n = len(matrix),len(matrix[0])
-        row = [False]*m
-        col = [False]*n
+        ans = [[0]*n for _ in range(m)]
 
-        iszero = set()
+        for i in range(m):
+            for j in range(n):
+                ans[i][j] = matrix[i][j]
+
         for i in range(m):
             for j in range(n):
                 if matrix[i][j] == 0:
-                    row[i] = col[j] = True
-        
+                    for k in range(n):
+                        ans[i][k] = 0
+                    for l in range(m):
+                        ans[l][j] = 0
+
         for i in range(m):
             for j in range(n):
-                if row[i] or col[j]:
-                    matrix[i][j] = 0
+                matrix[i][j] = ans[i][j]
+        
