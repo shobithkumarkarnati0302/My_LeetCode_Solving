@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Counting
 |  |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
