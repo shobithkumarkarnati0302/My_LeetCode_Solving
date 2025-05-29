@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2698-find-the-array-concatenation-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2698-find-the-array-concatenation-value) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Memoization
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0898-transpose-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2698-find-the-array-concatenation-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2698-find-the-array-concatenation-value) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Two Pointers
 |  |
 | ------- |
