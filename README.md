@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
 | [0492-construct-the-rectangle](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1013-fibonacci-number) |
+| [1070-convert-to-base-2](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1070-convert-to-base-2) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Recursion
