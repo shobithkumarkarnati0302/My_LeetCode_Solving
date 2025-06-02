@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0237-delete-node-in-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
