@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0209-minimum-size-subarray-sum) |
