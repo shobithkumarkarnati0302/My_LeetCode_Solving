@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
+| [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
