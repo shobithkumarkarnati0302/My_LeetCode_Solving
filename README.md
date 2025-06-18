@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
+| [1894-merge-strings-alternately](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3194-find-words-containing-character](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3194-find-words-containing-character) |
 ## Matrix
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2698-find-the-array-concatenation-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2698-find-the-array-concatenation-value) |
