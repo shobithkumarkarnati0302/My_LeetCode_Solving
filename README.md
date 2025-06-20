@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1755-defuse-the-bomb) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2698-find-the-array-concatenation-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2698-find-the-array-concatenation-value) |
