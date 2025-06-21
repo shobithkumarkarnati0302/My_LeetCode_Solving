@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -230,10 +231,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Interactive
 |  |
 | ------- |
