@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0792-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
 | [0492-construct-the-rectangle](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1070-convert-to-base-2) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
