@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1619-path-crossing](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1619-path-crossing) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1619-path-crossing](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1619-path-crossing) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
