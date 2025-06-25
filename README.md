@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1070-convert-to-base-2) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2496-count-days-spent-together](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2496-count-days-spent-together) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Recursion
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1894-merge-strings-alternately](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2496-count-days-spent-together](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2496-count-days-spent-together) |
 | [3194-find-words-containing-character](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3194-find-words-containing-character) |
 ## Matrix
 |  |
