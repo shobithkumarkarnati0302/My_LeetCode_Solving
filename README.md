@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0238-product-of-array-except-self) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3643-zero-array-transformation-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1619-path-crossing](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1619-path-crossing) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Dynamic Programming
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2496-count-days-spent-together](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2496-count-days-spent-together) |
 | [3194-find-words-containing-character](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3194-find-words-containing-character) |
