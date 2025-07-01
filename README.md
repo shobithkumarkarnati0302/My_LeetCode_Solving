@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
@@ -301,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
