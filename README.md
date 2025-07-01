@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0234-palindrome-linked-list) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0234-palindrome-linked-list) |
