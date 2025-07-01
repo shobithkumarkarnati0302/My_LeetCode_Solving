@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2496-count-days-spent-together](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2496-count-days-spent-together) |
 | [3194-find-words-containing-character](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3194-find-words-containing-character) |
+| [3617-find-the-original-typed-string-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3617-find-the-original-typed-string-i) |
 ## Matrix
 |  |
 | ------- |
