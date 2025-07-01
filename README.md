@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0777-toeplitz-matrix) |
