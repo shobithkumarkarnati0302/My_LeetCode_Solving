@@ -16,7 +16,9 @@ class Solution(object):
             '9' : 'wxyz' 
         }
 
-        arr = [nums[d] for d in digits]
+        arr = []
+        for digit in digits:
+            arr.append(nums[digit])
 
         combos = product(*arr)
 
