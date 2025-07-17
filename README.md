@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -317,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
