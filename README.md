@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1306-minimum-absolute-difference) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1656-count-good-triplets](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1656-count-good-triplets) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1619-path-crossing](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1619-path-crossing) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1894-merge-strings-alternately) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Backtracking
 |  |
@@ -322,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
