@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
@@ -352,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0164-maximum-gap) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
