@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1656-count-good-triplets](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1619-path-crossing](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1619-path-crossing) |
+| [1813-maximum-erasure-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
