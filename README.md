@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0908-middle-of-the-linked-list) |
