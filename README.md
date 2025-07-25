@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
+| [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2698-find-the-array-concatenation-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2698-find-the-array-concatenation-value) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1894-merge-strings-alternately) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
