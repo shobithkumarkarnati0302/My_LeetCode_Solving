@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -369,4 +370,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0223-rectangle-area) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
