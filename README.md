@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0540-single-element-in-a-sorted-array) |
