@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
+| [0455-assign-cookies](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0147-insertion-sort-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0908-middle-of-the-linked-list) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1818-maximum-score-from-removing-substrings) |
