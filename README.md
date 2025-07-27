@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0485-max-consecutive-ones) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
