@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0966-binary-subarrays-with-sum) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
