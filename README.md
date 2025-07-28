@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
