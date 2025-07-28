@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0728-self-dividing-numbers) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0566-reshape-the-matrix) |
