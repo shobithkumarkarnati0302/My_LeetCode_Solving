@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0728-self-dividing-numbers) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-flipping-an-image](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0861-flipping-an-image) |
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
