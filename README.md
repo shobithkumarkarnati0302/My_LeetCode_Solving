@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
