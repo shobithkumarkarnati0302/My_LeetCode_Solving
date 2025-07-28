@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0434-number-of-segments-in-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0857-positions-of-large-groups](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
