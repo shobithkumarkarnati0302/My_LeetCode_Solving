@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1013-fibonacci-number) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2496-count-days-spent-together](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2496-count-days-spent-together) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3194-find-words-containing-character](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3396-valid-word) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Interactive
 |  |
 | ------- |
