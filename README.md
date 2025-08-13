@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3193-maximum-strong-pair-xor-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3194-find-words-containing-character) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1656-count-good-triplets) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Trie
 |  |
 | ------- |
