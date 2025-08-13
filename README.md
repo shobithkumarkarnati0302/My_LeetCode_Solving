@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1813-maximum-erasure-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2476-check-distances-between-same-letters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2476-check-distances-between-same-letters) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2698-find-the-array-concatenation-value](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2698-find-the-array-concatenation-value) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1873-longest-nice-substring](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2476-check-distances-between-same-letters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2476-check-distances-between-same-letters) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Dynamic Programming
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2476-check-distances-between-same-letters](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2476-check-distances-between-same-letters) |
 | [2496-count-days-spent-together](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2496-count-days-spent-together) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3194-find-words-containing-character](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/3194-find-words-containing-character) |
