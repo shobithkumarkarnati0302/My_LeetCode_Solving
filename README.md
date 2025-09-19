@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0152-maximum-product-subarray) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shobithkumarkarnati0302/My_LeetCode_Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
